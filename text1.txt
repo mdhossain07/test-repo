@@ -6,3 +6,5 @@
 4. This file is now on staging. 
 5. Making another change. 
 6. I just committed the code. 
+7. I just set up a remote origin (in GitHub)
+8. Pushed my local code to the remote origin (in github)
