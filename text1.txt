@@ -3,3 +3,6 @@
 1. Hello World
 2. Just initialised the git repository. 
 3. Now will run git add command
+4. This file is now on staging. 
+5. Making another change. 
+6. I just committed the code. 
