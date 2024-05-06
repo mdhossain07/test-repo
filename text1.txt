@@ -1,0 +1,5 @@
+----- Learning Version Control----
+
+1. Hello World
+2. Just initialised the git repository. 
+3. Now will run git add command
